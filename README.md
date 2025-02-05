@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lemax97
 - 👀 I’m interested in gamedev
-- 🌱 I’m currently learning ~~java/libgdx~~ C++/SFML,
+- 🌱 I’m currently learning ~~java/libgdx~~ ~~C++/SFML~~ Game Maker,
 - 💞️ I’m looking to collaborate on not decided yet...
 - 📫 How to reach me: lemax97@gmail.com
 
